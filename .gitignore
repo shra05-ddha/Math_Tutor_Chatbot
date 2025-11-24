@@ -1,0 +1,13 @@
+# Environment files
+.env
+
+# Vector DB outputs
+vectorstore/
+
+# Python environment folders
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store

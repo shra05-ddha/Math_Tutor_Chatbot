@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+openai
+langchain
+langchain-community
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+tiktoken
+beautifulsoup4
+requests
+pypdf
+numpy
+sympy
